@@ -1,0 +1,177 @@
+02.09.2019 16:18:36.961 0 DEBUG    11312 User:{currentUser} StaticFileController: docroot=C:/Users/Mauri/Desktop/unginx/unginx/docroot/files, encoding=UTF-8, maxAge=90000
+02.09.2019 16:18:36.961 0 DEBUG    11312 User:{currentUser} StaticFileController: cache timeout=60000, size=1000000
+02.09.2019 16:18:36.961 0 DEBUG    11312 User:{currentUser} HttpSessionStore: Sessions expire after 3600000 milliseconds
+02.09.2019 16:18:36.962 0 DEBUG    11312 User:{currentUser} TemplateLoader: path=C:/Users/Mauri/Desktop/unginx/unginx/docroot/templates, codec=UTF-8
+02.09.2019 16:18:36.962 0 DEBUG    11312 User:{currentUser} TemplateCache: timeout=60000, size=1000000
+02.09.2019 16:18:36.962 0 DEBUG    11312 User:{currentUser} RequestMapper: created
+02.09.2019 16:18:37.088 0 DEBUG    11312 User:{currentUser} HttpConnectionHandlerPool: SSL settings loaded
+02.09.2019 16:18:37.096 0 DEBUG    11312 User:{currentUser} HttpListener: Listening on port 8080
+02.09.2019 16:18:41.537 0 DEBUG    11312 User:{currentUser} HttpConnectionHandler (0x6c2738): SSL is enabled
+02.09.2019 16:18:41.537 0 DEBUG    11312 User:{currentUser} HttpConnectionHandler (0x6c2738): constructed
+02.09.2019 16:18:41.537 0 DEBUG    11312 User:{currentUser} DBG: All Connection handlers:  1   Busy:  1   Free:  0
+02.09.2019 16:18:41.537 0 DEBUG    11312 User:{currentUser} HttpConnectionHandler (0x6c27d8): SSL is enabled
+02.09.2019 16:18:41.537 0 DEBUG    11312 User:{currentUser} HttpConnectionHandler (0x6c27d8): constructed
+02.09.2019 16:18:41.537 0 DEBUG    11312 User:{currentUser} DBG: All Connection handlers:  2   Busy:  2   Free:  0
+02.09.2019 16:18:41.537 0 DEBUG    11684 User:{currentUser} HttpConnectionHandler (0x6c2738): thread started
+02.09.2019 16:18:41.537 0 DEBUG    1540 User:{currentUser} HttpConnectionHandler (0x6c27d8): thread started
+02.09.2019 16:18:41.539 0 DEBUG    11684 User:{currentUser} HttpConnectionHandler (0x6c2738): handle new connection
+02.09.2019 16:18:41.540 0 DEBUG    1540 User:{currentUser} HttpConnectionHandler (0x6c27d8): handle new connection
+02.09.2019 16:18:41.540 0 DEBUG    11684 User:{currentUser} HttpConnectionHandler (0x6c2738): SSL is enabled
+02.09.2019 16:18:41.540 0 DEBUG    1540 User:{currentUser} HttpConnectionHandler (0x6c27d8): SSL is enabled
+02.09.2019 16:18:41.540 0 DEBUG    11684 User:{currentUser} HttpConnectionHandler (0x6c2738): Starting encryption
+02.09.2019 16:18:41.540 0 DEBUG    1540 User:{currentUser} HttpConnectionHandler (0x6c27d8): Starting encryption
+02.09.2019 16:18:41.557 0 DEBUG    11312 User:{currentUser} HttpConnectionHandler (0x6c2878): SSL is enabled
+02.09.2019 16:18:41.557 0 DEBUG    11312 User:{currentUser} HttpConnectionHandler (0x6c2878): constructed
+02.09.2019 16:18:41.557 0 DEBUG    11312 User:{currentUser} DBG: All Connection handlers:  3   Busy:  3   Free:  0
+02.09.2019 16:18:41.557 0 DEBUG    6000 User:{currentUser} HttpConnectionHandler (0x6c2878): thread started
+02.09.2019 16:18:41.558 0 DEBUG    6000 User:{currentUser} HttpConnectionHandler (0x6c2878): handle new connection
+02.09.2019 16:18:41.558 0 DEBUG    6000 User:{currentUser} HttpConnectionHandler (0x6c2878): SSL is enabled
+02.09.2019 16:18:41.558 0 DEBUG    6000 User:{currentUser} HttpConnectionHandler (0x6c2878): Starting encryption
+02.09.2019 16:18:41.566 0 DEBUG    6000 User:{currentUser} SSL ENCRYPTED!!!!!!!!!!!!!!
+02.09.2019 16:18:41.567 0 DEBUG    6000 User:{currentUser} "Not WebSocket Request."
+02.09.2019 16:18:41.567 0 DEBUG    6000 User:{currentUser} HttpConnectionHandler (0x6c2878): received request
+02.09.2019 16:18:41.567 0 DEBUG    6000 User:{currentUser} RequestMapper: path=/WebSockets.html
+02.09.2019 16:18:41.567 0 DEBUG    6000 User:{currentUser} StaticFileController: Cache miss for /WebSockets.html
+02.09.2019 16:18:41.567 0 DEBUG    6000 User:{currentUser} StaticFileController: Open file C:/Users/Mauri/Desktop/unginx/unginx/docroot/files/WebSockets.html
+02.09.2019 16:18:41.567 0 DEBUG    6000 User:{currentUser} RequestMapper: finished request
+02.09.2019 16:18:41.567 0 DEBUG    6000 User:{currentUser} HttpConnectionHandler (0x6c2878): finished request
+02.09.2019 16:18:41.584 0 DEBUG    6000 User:{currentUser} HttpConnectionHandler (0x6c2878): received request
+02.09.2019 16:18:41.584 0 DEBUG    6000 User:{currentUser} RequestMapper: path=/css/font-awesome.min.css
+02.09.2019 16:18:41.584 0 DEBUG    6000 User:{currentUser} StaticFileController: Cache miss for /css/font-awesome.min.css
+02.09.2019 16:18:41.584 0 DEBUG    6000 User:{currentUser} StaticFileController: Open file C:/Users/Mauri/Desktop/unginx/unginx/docroot/files/css/font-awesome.min.css
+02.09.2019 16:18:41.584 0 DEBUG    11312 User:{currentUser} HttpConnectionHandler (0x6c2c38): SSL is enabled
+02.09.2019 16:18:41.584 0 DEBUG    11312 User:{currentUser} HttpConnectionHandler (0x6c2c38): constructed
+02.09.2019 16:18:41.584 0 DEBUG    11312 User:{currentUser} DBG: All Connection handlers:  4   Busy:  4   Free:  0
+02.09.2019 16:18:41.584 0 DEBUG    6000 User:{currentUser} RequestMapper: finished request
+02.09.2019 16:18:41.584 0 DEBUG    6000 User:{currentUser} HttpConnectionHandler (0x6c2878): finished request
+02.09.2019 16:18:41.585 0 DEBUG    6000 User:{currentUser} HttpConnectionHandler (0x6c2878): received request
+02.09.2019 16:18:41.585 0 DEBUG    6000 User:{currentUser} RequestMapper: path=/jquery/jquery-3.4.1.min.js
+02.09.2019 16:18:41.585 0 DEBUG    6000 User:{currentUser} StaticFileController: Cache miss for /jquery/jquery-3.4.1.min.js
+02.09.2019 16:18:41.585 0 DEBUG    6000 User:{currentUser} StaticFileController: Open file C:/Users/Mauri/Desktop/unginx/unginx/docroot/files/jquery/jquery-3.4.1.min.js
+02.09.2019 16:18:41.586 0 DEBUG    6000 User:{currentUser} RequestMapper: finished request
+02.09.2019 16:18:41.586 0 DEBUG    6000 User:{currentUser} HttpConnectionHandler (0x6c2878): finished request
+02.09.2019 16:18:41.589 0 DEBUG    12064 User:{currentUser} HttpConnectionHandler (0x6c2c38): thread started
+02.09.2019 16:18:41.590 0 DEBUG    12064 User:{currentUser} HttpConnectionHandler (0x6c2c38): handle new connection
+02.09.2019 16:18:41.590 0 DEBUG    12064 User:{currentUser} HttpConnectionHandler (0x6c2c38): SSL is enabled
+02.09.2019 16:18:41.591 0 DEBUG    12064 User:{currentUser} HttpConnectionHandler (0x6c2c38): Starting encryption
+02.09.2019 16:18:42.143 0 DEBUG    6000 User:{currentUser} HttpConnectionHandler (0x6c2878): received request
+02.09.2019 16:18:42.143 0 DEBUG    6000 User:{currentUser} RequestMapper: path=/img/logo.ico
+02.09.2019 16:18:42.143 0 DEBUG    6000 User:{currentUser} StaticFileController: Cache miss for /img/logo.ico
+02.09.2019 16:18:42.143 0 DEBUG    6000 User:{currentUser} StaticFileController: Open file C:/Users/Mauri/Desktop/unginx/unginx/docroot/files/img/logo.ico
+02.09.2019 16:18:42.143 0 DEBUG    6000 User:{currentUser} StaticFileController: unknown MIME type for filename '/img/logo.ico'
+02.09.2019 16:18:42.145 0 DEBUG    6000 User:{currentUser} RequestMapper: finished request
+02.09.2019 16:18:42.145 0 DEBUG    6000 User:{currentUser} HttpConnectionHandler (0x6c2878): finished request
+02.09.2019 16:18:43.362 0 DEBUG    11312 User:{currentUser} HttpConnectionHandler (0x6884e8): SSL is enabled
+02.09.2019 16:18:43.362 0 DEBUG    11312 User:{currentUser} HttpConnectionHandler (0x6884e8): constructed
+02.09.2019 16:18:43.363 0 DEBUG    11312 User:{currentUser} DBG: All Connection handlers:  5   Busy:  5   Free:  0
+02.09.2019 16:18:43.363 0 DEBUG    10400 User:{currentUser} HttpConnectionHandler (0x6884e8): thread started
+02.09.2019 16:18:43.364 0 DEBUG    10400 User:{currentUser} HttpConnectionHandler (0x6884e8): handle new connection
+02.09.2019 16:18:43.364 0 DEBUG    10400 User:{currentUser} HttpConnectionHandler (0x6884e8): SSL is enabled
+02.09.2019 16:18:43.364 0 DEBUG    10400 User:{currentUser} HttpConnectionHandler (0x6884e8): Starting encryption
+02.09.2019 16:58:44.389 0 DEBUG    7484 User:{currentUser} StaticFileController: docroot=C:/Users/Mauri/Desktop/unginx/unginx/docroot/files, encoding=UTF-8, maxAge=90000
+02.09.2019 16:58:44.389 0 DEBUG    7484 User:{currentUser} StaticFileController: cache timeout=60000, size=1000000
+02.09.2019 16:58:44.389 0 DEBUG    7484 User:{currentUser} HttpSessionStore: Sessions expire after 3600000 milliseconds
+02.09.2019 16:58:44.390 0 DEBUG    7484 User:{currentUser} TemplateLoader: path=C:/Users/Mauri/Desktop/unginx/unginx/docroot/templates, codec=UTF-8
+02.09.2019 16:58:44.390 0 DEBUG    7484 User:{currentUser} TemplateCache: timeout=60000, size=1000000
+02.09.2019 16:58:44.390 0 DEBUG    7484 User:{currentUser} RequestMapper: created
+02.09.2019 16:58:44.430 0 DEBUG    7484 User:{currentUser} HttpConnectionHandlerPool: SSL settings loaded
+02.09.2019 16:58:44.438 0 DEBUG    7484 User:{currentUser} HttpListener: Listening on port 8080
+02.09.2019 16:58:55.045 0 DEBUG    7484 User:{currentUser} HttpConnectionHandler (0xac22a8): SSL is enabled
+02.09.2019 16:58:55.045 0 DEBUG    7484 User:{currentUser} HttpConnectionHandler (0xac22a8): constructed
+02.09.2019 16:58:55.045 0 DEBUG    7484 User:{currentUser} DBG: All Connection handlers:  1   Busy:  1   Free:  0
+02.09.2019 16:58:55.045 0 DEBUG    7484 User:{currentUser} HttpConnectionHandler (0xac1cb8): SSL is enabled
+02.09.2019 16:58:55.045 0 DEBUG    7484 User:{currentUser} HttpConnectionHandler (0xac1cb8): constructed
+02.09.2019 16:58:55.045 0 DEBUG    7484 User:{currentUser} DBG: All Connection handlers:  2   Busy:  2   Free:  0
+02.09.2019 16:58:55.046 0 DEBUG    7484 User:{currentUser} HttpConnectionHandler (0xac22f8): SSL is enabled
+02.09.2019 16:58:55.046 0 DEBUG    7484 User:{currentUser} HttpConnectionHandler (0xac22f8): constructed
+02.09.2019 16:58:55.046 0 DEBUG    7484 User:{currentUser} DBG: All Connection handlers:  3   Busy:  3   Free:  0
+02.09.2019 16:58:55.046 0 DEBUG    12336 User:{currentUser} HttpConnectionHandler (0xac22a8): thread started
+02.09.2019 16:58:55.046 0 DEBUG    8452 User:{currentUser} HttpConnectionHandler (0xac1cb8): thread started
+02.09.2019 16:58:55.046 0 DEBUG    10320 User:{currentUser} HttpConnectionHandler (0xac22f8): thread started
+02.09.2019 16:58:55.048 0 DEBUG    8452 User:{currentUser} HttpConnectionHandler (0xac1cb8): handle new connection
+02.09.2019 16:58:55.049 0 DEBUG    8452 User:{currentUser} HttpConnectionHandler (0xac1cb8): SSL is enabled
+02.09.2019 16:58:55.049 0 DEBUG    12336 User:{currentUser} HttpConnectionHandler (0xac22a8): handle new connection
+02.09.2019 16:58:55.049 0 DEBUG    10320 User:{currentUser} HttpConnectionHandler (0xac22f8): handle new connection
+02.09.2019 16:58:55.049 0 DEBUG    12336 User:{currentUser} HttpConnectionHandler (0xac22a8): SSL is enabled
+02.09.2019 16:58:55.049 0 DEBUG    10320 User:{currentUser} HttpConnectionHandler (0xac22f8): SSL is enabled
+02.09.2019 16:58:55.049 0 DEBUG    8452 User:{currentUser} HttpConnectionHandler (0xac1cb8): Starting encryption
+02.09.2019 16:58:55.049 1 WARNING  8452 User:{currentUser} QSslSocket::startServerEncryption: TLS initialization failed
+02.09.2019 16:58:55.049 0 DEBUG    12336 User:{currentUser} HttpConnectionHandler (0xac22a8): Starting encryption
+02.09.2019 16:58:55.049 1 WARNING  12336 User:{currentUser} QSslSocket::startServerEncryption: TLS initialization failed
+02.09.2019 16:58:55.049 0 DEBUG    10320 User:{currentUser} HttpConnectionHandler (0xac22f8): Starting encryption
+02.09.2019 16:58:55.049 1 WARNING  10320 User:{currentUser} QSslSocket::startServerEncryption: TLS initialization failed
+02.09.2019 16:59:21.472 0 DEBUG    7484 User:{currentUser} HttpConnectionHandler (0xac2168): SSL is enabled
+02.09.2019 16:59:21.472 0 DEBUG    7484 User:{currentUser} HttpConnectionHandler (0xac2168): constructed
+02.09.2019 16:59:21.472 0 DEBUG    7484 User:{currentUser} DBG: All Connection handlers:  4   Busy:  4   Free:  0
+02.09.2019 16:59:21.472 0 DEBUG    7024 User:{currentUser} HttpConnectionHandler (0xac2168): thread started
+02.09.2019 16:59:21.473 0 DEBUG    7024 User:{currentUser} HttpConnectionHandler (0xac2168): handle new connection
+02.09.2019 16:59:21.473 0 DEBUG    7024 User:{currentUser} HttpConnectionHandler (0xac2168): SSL is enabled
+02.09.2019 16:59:21.473 0 DEBUG    7024 User:{currentUser} HttpConnectionHandler (0xac2168): Starting encryption
+02.09.2019 16:59:21.473 1 WARNING  7024 User:{currentUser} QSslSocket::startServerEncryption: TLS initialization failed
+02.09.2019 16:59:25.172 0 DEBUG    7484 User:{currentUser} HttpConnectionHandler (0xac1ee8): SSL is enabled
+02.09.2019 16:59:25.172 0 DEBUG    7484 User:{currentUser} HttpConnectionHandler (0xac1ee8): constructed
+02.09.2019 16:59:25.172 0 DEBUG    7484 User:{currentUser} DBG: All Connection handlers:  5   Busy:  5   Free:  0
+02.09.2019 16:59:25.172 0 DEBUG    7484 User:{currentUser} HttpConnectionHandler (0xac2708): SSL is enabled
+02.09.2019 16:59:25.172 0 DEBUG    7484 User:{currentUser} HttpConnectionHandler (0xac2708): constructed
+02.09.2019 16:59:25.172 0 DEBUG    7484 User:{currentUser} DBG: All Connection handlers:  6   Busy:  6   Free:  0
+02.09.2019 16:59:25.173 0 DEBUG    6692 User:{currentUser} HttpConnectionHandler (0xac1ee8): thread started
+02.09.2019 16:59:25.173 0 DEBUG    12428 User:{currentUser} HttpConnectionHandler (0xac2708): thread started
+02.09.2019 16:59:25.174 0 DEBUG    6692 User:{currentUser} HttpConnectionHandler (0xac1ee8): handle new connection
+02.09.2019 16:59:25.174 0 DEBUG    12428 User:{currentUser} HttpConnectionHandler (0xac2708): handle new connection
+02.09.2019 16:59:25.174 0 DEBUG    6692 User:{currentUser} HttpConnectionHandler (0xac1ee8): SSL is enabled
+02.09.2019 16:59:25.175 0 DEBUG    12428 User:{currentUser} HttpConnectionHandler (0xac2708): SSL is enabled
+02.09.2019 16:59:25.175 0 DEBUG    6692 User:{currentUser} HttpConnectionHandler (0xac1ee8): Starting encryption
+02.09.2019 16:59:25.175 0 DEBUG    12428 User:{currentUser} HttpConnectionHandler (0xac2708): Starting encryption
+02.09.2019 16:59:25.175 1 WARNING  6692 User:{currentUser} QSslSocket::startServerEncryption: TLS initialization failed
+02.09.2019 16:59:25.175 1 WARNING  12428 User:{currentUser} QSslSocket::startServerEncryption: TLS initialization failed
+02.09.2019 16:59:33.280 0 DEBUG    7484 User:{currentUser} HttpConnectionHandler (0xac1bc8): SSL is enabled
+02.09.2019 16:59:33.281 0 DEBUG    7484 User:{currentUser} HttpConnectionHandler (0xac1bc8): constructed
+02.09.2019 16:59:33.281 0 DEBUG    7484 User:{currentUser} DBG: All Connection handlers:  7   Busy:  7   Free:  0
+02.09.2019 16:59:33.281 0 DEBUG    8032 User:{currentUser} HttpConnectionHandler (0xac1bc8): thread started
+02.09.2019 16:59:33.283 0 DEBUG    7484 User:{currentUser} HttpConnectionHandler (0xac2618): SSL is enabled
+02.09.2019 16:59:33.283 0 DEBUG    7484 User:{currentUser} HttpConnectionHandler (0xac2618): constructed
+02.09.2019 16:59:33.283 0 DEBUG    7484 User:{currentUser} DBG: All Connection handlers:  8   Busy:  8   Free:  0
+02.09.2019 16:59:33.283 0 DEBUG    8032 User:{currentUser} HttpConnectionHandler (0xac1bc8): handle new connection
+02.09.2019 16:59:33.283 0 DEBUG    8032 User:{currentUser} HttpConnectionHandler (0xac1bc8): SSL is enabled
+02.09.2019 16:59:33.283 0 DEBUG    6752 User:{currentUser} HttpConnectionHandler (0xac2618): thread started
+02.09.2019 16:59:33.283 0 DEBUG    8032 User:{currentUser} HttpConnectionHandler (0xac1bc8): Starting encryption
+02.09.2019 16:59:33.283 1 WARNING  8032 User:{currentUser} QSslSocket::startServerEncryption: TLS initialization failed
+02.09.2019 16:59:33.284 0 DEBUG    6752 User:{currentUser} HttpConnectionHandler (0xac2618): handle new connection
+02.09.2019 16:59:33.284 0 DEBUG    6752 User:{currentUser} HttpConnectionHandler (0xac2618): SSL is enabled
+02.09.2019 16:59:33.284 0 DEBUG    6752 User:{currentUser} HttpConnectionHandler (0xac2618): Starting encryption
+02.09.2019 16:59:33.284 1 WARNING  6752 User:{currentUser} QSslSocket::startServerEncryption: TLS initialization failed
+02.09.2019 16:59:42.439 0 DEBUG    7484 User:{currentUser} HttpConnectionHandler (0xaf3dc8): SSL is enabled
+02.09.2019 16:59:42.439 0 DEBUG    7484 User:{currentUser} HttpConnectionHandler (0xaf3dc8): constructed
+02.09.2019 16:59:42.439 0 DEBUG    7484 User:{currentUser} DBG: All Connection handlers:  9   Busy:  9   Free:  0
+02.09.2019 16:59:42.439 0 DEBUG    12620 User:{currentUser} HttpConnectionHandler (0xaf3dc8): thread started
+02.09.2019 16:59:42.440 0 DEBUG    12620 User:{currentUser} HttpConnectionHandler (0xaf3dc8): handle new connection
+02.09.2019 16:59:42.440 0 DEBUG    12620 User:{currentUser} HttpConnectionHandler (0xaf3dc8): SSL is enabled
+02.09.2019 16:59:42.440 0 DEBUG    12620 User:{currentUser} HttpConnectionHandler (0xaf3dc8): Starting encryption
+02.09.2019 16:59:42.440 1 WARNING  12620 User:{currentUser} QSslSocket::startServerEncryption: TLS initialization failed
+02.09.2019 16:59:48.764 0 DEBUG    7484 User:{currentUser} HttpConnectionHandler (0xaf4048): SSL is enabled
+02.09.2019 16:59:48.764 0 DEBUG    7484 User:{currentUser} HttpConnectionHandler (0xaf4048): constructed
+02.09.2019 16:59:48.764 0 DEBUG    7484 User:{currentUser} DBG: All Connection handlers:  10   Busy:  10   Free:  0
+02.09.2019 16:59:48.764 0 DEBUG    11980 User:{currentUser} HttpConnectionHandler (0xaf4048): thread started
+02.09.2019 16:59:48.766 0 DEBUG    11980 User:{currentUser} HttpConnectionHandler (0xaf4048): handle new connection
+02.09.2019 16:59:48.766 0 DEBUG    11980 User:{currentUser} HttpConnectionHandler (0xaf4048): SSL is enabled
+02.09.2019 16:59:48.766 0 DEBUG    11980 User:{currentUser} HttpConnectionHandler (0xaf4048): Starting encryption
+02.09.2019 16:59:48.766 1 WARNING  11980 User:{currentUser} QSslSocket::startServerEncryption: TLS initialization failed
+02.09.2019 16:59:55.041 0 DEBUG    10320 User:{currentUser} !!!!!!!!!!!HttpConnectionHandler (0xac22f8) type(0): read timeout occured
+02.09.2019 16:59:55.042 0 DEBUG    12336 User:{currentUser} !!!!!!!!!!!HttpConnectionHandler (0xac22a8) type(0): read timeout occured
+02.09.2019 16:59:55.042 0 DEBUG    8452 User:{currentUser} !!!!!!!!!!!HttpConnectionHandler (0xac1cb8) type(0): read timeout occured
+02.09.2019 17:00:21.471 0 DEBUG    7024 User:{currentUser} !!!!!!!!!!!HttpConnectionHandler (0xac2168) type(0): read timeout occured
+02.09.2019 17:00:25.167 0 DEBUG    12428 User:{currentUser} !!!!!!!!!!!HttpConnectionHandler (0xac2708) type(0): read timeout occured
+02.09.2019 17:00:25.167 0 DEBUG    6692 User:{currentUser} !!!!!!!!!!!HttpConnectionHandler (0xac1ee8) type(0): read timeout occured
+02.09.2019 17:00:33.276 0 DEBUG    8032 User:{currentUser} !!!!!!!!!!!HttpConnectionHandler (0xac1bc8) type(0): read timeout occured
+02.09.2019 17:00:33.277 0 DEBUG    6752 User:{currentUser} !!!!!!!!!!!HttpConnectionHandler (0xac2618) type(0): read timeout occured
+02.09.2019 17:00:42.434 0 DEBUG    12620 User:{currentUser} !!!!!!!!!!!HttpConnectionHandler (0xaf3dc8) type(0): read timeout occured
+02.09.2019 17:00:42.435 0 DEBUG    7484 User:{currentUser} HttpConnectionHandler (0xaf3738): SSL is enabled
+02.09.2019 17:00:42.435 0 DEBUG    7484 User:{currentUser} HttpConnectionHandler (0xaf3738): constructed
+02.09.2019 17:00:42.435 0 DEBUG    7484 User:{currentUser} DBG: All Connection handlers:  11   Busy:  11   Free:  0
+02.09.2019 17:00:42.435 0 DEBUG    3388 User:{currentUser} HttpConnectionHandler (0xaf3738): thread started
+02.09.2019 17:00:42.436 0 DEBUG    3388 User:{currentUser} HttpConnectionHandler (0xaf3738): handle new connection
+02.09.2019 17:00:42.436 0 DEBUG    3388 User:{currentUser} HttpConnectionHandler (0xaf3738): SSL is enabled
+02.09.2019 17:00:42.437 0 DEBUG    3388 User:{currentUser} HttpConnectionHandler (0xaf3738): Starting encryption
+02.09.2019 17:00:42.437 1 WARNING  3388 User:{currentUser} QSslSocket::startServerEncryption: TLS initialization failed
+02.09.2019 17:00:48.760 0 DEBUG    11980 User:{currentUser} !!!!!!!!!!!HttpConnectionHandler (0xaf4048) type(0): read timeout occured
+02.09.2019 17:01:42.433 0 DEBUG    3388 User:{currentUser} !!!!!!!!!!!HttpConnectionHandler (0xaf3738) type(0): read timeout occured
